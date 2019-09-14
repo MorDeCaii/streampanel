@@ -15,4 +15,4 @@ Project is still kinda slightly implemented but there's place for some "done/tod
 - [ ] OBS Actions
 .....
 
-!()[https://i.imgur.com/aESmuC5.png]
+![](https://i.imgur.com/aESmuC5.png)
