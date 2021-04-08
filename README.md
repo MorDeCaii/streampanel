@@ -8,7 +8,6 @@ Project is still kinda slightly implemented but there's place for some "done/tod
 - [x] iPhone USB connection (not stable)
 - [x] "Actions" drag'n'drop
 - [x] Folders for nested panels
-- [ ] errors, errors, errors...
 - [ ] iPhone panel sync (with button images)
 - [ ] Wi-Fi connection
 - [ ] Better class structure for "Actions"
